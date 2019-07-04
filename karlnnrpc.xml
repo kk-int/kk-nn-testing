@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<methodCall>
+	<methodName>submitMessage</methodName>
+	<params>
+		<param>
+			<value>
+				<struct>
+					<member>
+						<name>enduserAddress</name><value><string>14160000000</string></value>
+					</member>
+					<member>
+						<name>systemAddress</name><value><string>11111</string></value>
+					</member>
+					<member>
+						<name>message</name><value><string>Jump in, the water's fine.</string></value>
+					</member>
+					<member>
+						<name>gateway</name><value><string>KKGate</string></value>
+					</member>
+					<member>
+						<name>messagetype</name><value><i4>1</i4></value>
+					</member>
+					<member>
+						<name>currency</name><value><string>USD</string></value>
+					</member>
+					<member>
+						<name>rate</name><value><i4>0</i4></value>
+					</member>
+				</struct>
+			</value>
+		</param>
+	</params>
+</methodCall>
