@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>16470000000</title>
+        <item>
+            <title><![CDATA[Toronto]]></title>
+            <description><![CDATA[Hello from Toronto!]]></description>
+            <pubDate>Thu, 04 Jul 2019 09:56:32 GMT</pubDate>
+        </item>
+    </channel>
+    <channel>
+        <title>14160000000</title>
+        <item>
+            <title><![CDATA[Toronto]]></title>
+            <description><![CDATA[Hello again from Toronto!]]></description>
+            <pubDate>Thu, 04 Jul 2019 10:57:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
