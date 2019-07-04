@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <channel>
+<rss>
+     <channel>
         <title>SMS ingest</title>
         <item>
             <author>14160000000</author>
