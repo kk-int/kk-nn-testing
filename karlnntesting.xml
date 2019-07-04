@@ -3,15 +3,15 @@
     <channel>
         <title>SMS ingest</title>
         <item>
-            <title><![CDATA[Toronto]]></title>
-            <description><![CDATA[Hello from Toronto!]]></description>
-            <pubDate>Thu, 04 Jul 2019 09:56:32 GMT</pubDate>
+            <title>City</title>
+            <description>Hello from a city</description>
+            <pubDate>Thu, 04 Jul 2019 16:56:32 GMT</pubDate>
         </item>
         <item>
-            <author>Author</author>
-            <title><![CDATA[Toronto]]></title>
-            <description><![CDATA[Hello again from Toronto!]]></description>
-            <pubDate>Thu, 04 Jul 2019 10:57:32 GMT</pubDate>
+            <author>1647</author>
+            <title>Another city</title>
+            <description>Hello again</description>
+            <pubDate>Thu, 04 Jul 2019 16:57:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
