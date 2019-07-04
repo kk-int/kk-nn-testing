@@ -7,10 +7,8 @@
             <description><![CDATA[Hello from Toronto!]]></description>
             <pubDate>Thu, 04 Jul 2019 09:56:32 GMT</pubDate>
         </item>
-    </channel>
-    <channel>
-        <title>14160000000</title>
         <item>
+            <author>Author</author
             <title><![CDATA[Toronto]]></title>
             <description><![CDATA[Hello again from Toronto!]]></description>
             <pubDate>Thu, 04 Jul 2019 10:57:32 GMT</pubDate>
